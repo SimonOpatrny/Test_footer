@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(51, 75, 141);
+}
+
+
+h1 {text-align: center;
+    color: white;
+    text-decoration: underline ;
+    text-underline-offset: 10px;
+}
+p {text-align: center;
+    color: white;
+}
+div {text-align: center;
+    color: white;
+}
+
+h2 {text-align: center;
+    color: white;
+    text-decoration: underline;
+    text-underline-offset: 5px;
+}
+g {text-align: center;
+    color: white;}
+
+image{
+    fill: rgb(255, 0, 0);
+    transition: 0.3;
+   }
